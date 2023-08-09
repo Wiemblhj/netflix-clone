@@ -2,7 +2,7 @@
 
 
 
-This is a repository for a FullStack Netflix Clone tutorial using React, NextJS, TailwindCSS & Prisma.
+This is a repository for a FullStack Netflix Clone using React, NextJS, TailwindCSS & Prisma.
 
 
 
